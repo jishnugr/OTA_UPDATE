@@ -1,0 +1,7 @@
+{
+    "type": "esp8266-fota-http",
+    "version": 2.3,
+    "host": "13.234.176.102",
+    "port": 80,
+    "bin": "https://github.com/jishnugr/OTA_UPDATE/blob/main/fw.bin"
+}
