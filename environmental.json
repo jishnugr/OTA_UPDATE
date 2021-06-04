@@ -1,8 +1,13 @@
 {
-    "tempThreshold": 0.0,
-    "phThreshold": 0.0,
-    "turidityThreshold": 0.0,
-    "tdsThreshold": 0.0,
-     
-    "flowSensorThreshold": -1
+    "phHigherthreshold": 0.0,
+    "phLowerthreshold": 0.0,
+    "TurbidityHigherthreshold": 0.0,
+    "TurbidityLowerthreshold": 0.0,
+    "temperatureHigherthreshold": 0.0,
+    "temperatureLowerthreshold": 0.0,
+    "TDSHigherthreshold": 0.0,
+    "TDSLowerthreshold": 0.0,
+    "flowHigherthreshold": 0.0,
+    "flowLowerthreshold": -1
 }
+
