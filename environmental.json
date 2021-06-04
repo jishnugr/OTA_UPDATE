@@ -1,0 +1,8 @@
+{
+    "tempThreshold": 0.0,
+    "phThreshold": 0.0,
+    "turidityThreshold": 0.0,
+    "tdsThreshold": 0.0,
+     
+    "flowSensorThreshold": -1
+}
