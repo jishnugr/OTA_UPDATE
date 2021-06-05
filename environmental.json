@@ -1,4 +1,5 @@
 {
+    "credentialslink":"https://raw.githubusercontent.com/jishnugr/OTA_UPDATE/main/credentials.json",
     "phHigherthreshold": 0.0,
     "phLowerthreshold": 0.0,
     "TurbidityHigherthreshold": 0.0,
