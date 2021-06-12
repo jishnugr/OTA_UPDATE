@@ -9,6 +9,7 @@
     "TDSHigherthreshold": 0.0,
     "TDSLowerthreshold": 0.0,
     "flowHigherthreshold": 0.0,
-    "flowLowerthreshold": -1
+    "flowLowerthreshold": -1,
+    "flowsensorfactor": 24.40
 }
 
