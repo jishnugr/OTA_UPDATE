@@ -1,7 +1,5 @@
 {
     "credentialslink":"https://raw.githubusercontent.com/jishnugr/OTA_UPDATE/main/credentials.json",
-    "bin_version" : "https://raw.githubusercontent.com/jishnugr/OTA_UPDATE/main/bin_version.txt",
-    "firmware" : "https://raw.githubusercontent.com/jishnugr/OTA_UPDATE/main/fw.bin",
     "phHigherthreshold": 0.0,
     "phLowerthreshold": 0.0,
     "TurbidityHigherthreshold": 0.0,
