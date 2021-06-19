@@ -4,7 +4,7 @@
     "phLowerthreshold": 0.0,
     "TurbidityHigherthreshold": 0.0,
     "TurbidityLowerthreshold": 0.0,
-    "temperatureHigherthreshold": 0.0,
+    "temperatureHigherthreshold": 30.0,
     "temperatureLowerthreshold": 0.0,
     "TDSHigherthreshold": 0.0,
     "TDSLowerthreshold": 0.0,
